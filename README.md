@@ -1,16 +1,23 @@
-## Hi there 👋
+# University of Waterloo Economics Society (UWES)
 
-<!--
-**uweconsoc/uweconsoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+UWES is a student-run organization, connecting our economics students outside the classroom. Our mandate is to provide economics students with the tools and infrastructure for collaborative engagement, support, and learning. We aim to create social and academic opportunities to enhance the student experience, promote networking and skill development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Offer
+
+- Social events to meet and connect with fellow students.
+- Academic workshops and speaker events.
+- Networking and professional development opportunities.
+- Competitions and collaborative projects.
+
+Whether you're interested in economics or preparing for a career, UWES has something for you!
+
+## Stay Connected
+
+Check out our social media for more information and upcoming events!
+- [Instagram](https://www.instagram.com/uweconsoc/)
+- [Facebook](https://www.facebook.com/uweconsoc/)  
+- [LinkedIn]([https://linkedin.com/company/uwes](https://www.linkedin.com/company/uw-economics-society/))
+- [X](https://x.com/UWEconSoc)
+
+Looking forward to meeting you at our events!
